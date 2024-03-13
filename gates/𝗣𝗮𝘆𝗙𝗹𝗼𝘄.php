@@ -116,7 +116,7 @@ $sent_message_id = send_reply($chatId, $message_id, $keyboard, "<b>
 [↯] 𝗚𝗔𝗧𝗘𝗪𝗔𝗬 ★ STRIPE CCN
 ━━━━━━━━━━━━━━━━━━
 [↯] 𝗖𝗵𝗲𝗰𝗸𝗲𝗱 𝗕𝘆 ↯ @$username <code>[$rank]</code>
-[↯] 𝗕𝗢𝗧 𝗕𝗬 ↯ @BADDOORS 
+[↯] 𝗕𝗢𝗧 𝗕𝗬 ↯ @IAM_DAXX 
 ━━━━━━━━━━━━━━━━━━</b>");
 
 function value($str,$find_start,$find_end)
